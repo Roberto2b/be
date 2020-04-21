@@ -24,7 +24,7 @@
     height: 800px;
 }
 
-#roberto slidingdoor pintu tertutup
+#robertoslidingdoorpintutertutupjs
 
 var myCanvas = document.getElementById('canvas');
 var ctx = myCanvas.getContext('2d');
@@ -108,7 +108,7 @@ ctx.font = '20pt calibri';
 ctx.fillStyle = 'Black';
 ctx.fillText(' Pintu Tertutup', 20, 400);
 
-#arvian slidingdoor transformasi proses pintu tertutup
+#arvianslidingdoortransformasiprosespintutertutupjs
 /*bagian ke-2*/
 //border
 ctx.beginPath();
@@ -283,7 +283,7 @@ ctx.fillStyle = 'Black';
 ctx.fillText('Gerakan Terbuka dan Tertutupnya Pintu', 650, 670);
 //bagian ke dua selesai
 
-#diki firmansyah slidingdoor transformasi proses pintu terbuka
+#dikifirmansyahslidingdoortransformasiprosespintuterbukajs
 
 // pintu ketiga
 ctx.beginPath();
